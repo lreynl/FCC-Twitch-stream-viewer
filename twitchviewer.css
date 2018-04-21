@@ -1,0 +1,53 @@
+@media (max-width: 480px) {
+  .panel {
+    width: auto !important;
+    min-width: 100% !important;
+  }
+}
+
+body {
+  font-family: 'Russo One', sans-serif;
+  background-color: #B9A3E3;
+}
+
+.panel {
+  margin-top: 30px;
+  position: relative;
+  width: 40%;
+  min-width: 480px;
+  border-radius: 15px;
+}
+
+.panel > .panel-heading {
+  background-color: white;
+}
+
+#scrolling {
+  height: 50px;
+  line-height: 50px;
+  white-space: nowrap;
+  font-size: 18px;
+}
+
+#title {
+  padding-left: 10px;
+  font-size: 20px;
+  height: 50px;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.img-rounded {
+  height: 50px;
+  width: 50px;
+}
+
+.btn-success {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.btn-info {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
