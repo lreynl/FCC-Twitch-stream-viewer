@@ -1,5 +1,5 @@
 var streamerData = {};
-var key = '5yvihra4u7qsenpj713oek6dkfhd3v';
+var key = //api key goes here
 var retrievedIdList = {};
 
 $(getTw());
